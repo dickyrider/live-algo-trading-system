@@ -8,7 +8,7 @@ Official docs are still broken — this is the only public repo that actually ru
 
 
 
-### Live Private Bot – Honest Performance (Jan – Nov 20 2025)
+### Live Private Bot – Honest Performance (Oct – Nov 2025)
 - Single automated strategy, conservative 5× leverage
 - Survived prolonged bear market drawdown to **-18%**
 - Max realized DD -18% — never blown up, never manually intervened
@@ -24,7 +24,7 @@ Official docs are still broken — this is the only public repo that actually ru
 - Production-ready structure (systemd + watchdog ready)
 - Telegram / Slack alert skeleton (disabled here)
 
-```text
-Live strategy logic and notifications intentionally removed.
-Full bot, honest equity curve, and complete trade log 
-shared only in final-round interviews with serious teams.
+
+*Live strategy logic and notifications intentionally removed.
+*Full bot, honest equity curve, and complete trade log 
+*shared only in interviews with serious teams.
