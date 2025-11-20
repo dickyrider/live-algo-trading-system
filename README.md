@@ -6,7 +6,7 @@ Official docs are still broken — this is the only public repo that actually ru
 <p align="center">
   <img src="IMG_2590.jpeg" width="300"/>
   <br>
-  <i>Live Real-Money Equity Curve · Real account on Backpack Exchange · 5× leverage only<br>Steady -18% drawdown · Still alive & fully automated after 11 months of real trading</i>
+  <i>Live Real-Money Equity Curve · Real account on Backpack Exchange · 5× leverage only<br>Steady -18% drawdown · Still alive & fully automated after 1 month of real trading</i>
 </p>
 
 
