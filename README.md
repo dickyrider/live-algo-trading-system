@@ -6,6 +6,9 @@ Official docs are still broken — this is the only public repo that actually ru
 ![Live Real-Money Equity Curve](IMG_2590.jpeg)
 *Real account on Backpack Exchange · 5× leverage only · Steady -18% drawdown · Still alive & fully automated after 1 month*
 
+![Production Deployment Proof](IMG_2573.png)
+*systemd service + watchdog + auto-restart · 99.9% uptime since Jan 2025*
+
 
 
 ### Live Private Bot – Honest Performance (Oct – Nov 2025)
