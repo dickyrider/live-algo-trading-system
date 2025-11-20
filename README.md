@@ -10,7 +10,7 @@ Official docs are still broken — this is the only public repo that actually ru
 </p>
 
 <p align="center">
-  <img src="IMG_2573.png" width="50"/>
+  <img src="IMG_2573.png" width="500"/>
   <br>
   <i>Production Deployment Proof · systemd service + watchdog + auto-restart<br>99.9% uptime on Ubuntu VPS since Jan 2025</i>
 </p>
