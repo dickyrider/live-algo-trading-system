@@ -3,11 +3,17 @@
 **The most complete open-source Backpack Exchange Python template in 2025**  
 Official docs are still broken — this is the only public repo that actually runs end-to-end.
 
-![Live Real-Money Equity Curve](IMG_2590.jpeg)
-*Real account on Backpack Exchange · 5× leverage only · Steady -18% drawdown · Still alive & fully automated after 1 month*
+<p align="center">
+  <img src="IMG_2590.jpeg" width="900"/>
+  <br>
+  <i>Live Real-Money Equity Curve · Real account on Backpack Exchange · 5× leverage only<br>Steady -18% drawdown · Still alive & fully automated after 11 months of real trading</i>
+</p>
 
-![Production Deployment Proof](IMG_2573.png)
-*systemd service + watchdog + auto-restart · 99.9% uptime since Jan 2025*
+<p align="center">
+  <img src="IMG_2573.png" width="850"/>
+  <br>
+  <i>Production Deployment Proof · systemd service + watchdog + auto-restart<br>99.9% uptime on Ubuntu VPS since Jan 2025</i>
+</p>
 
 
 
