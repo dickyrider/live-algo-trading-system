@@ -4,13 +4,13 @@
 Official docs are still broken — this is the only public repo that actually runs end-to-end.
 
 <p align="center">
-  <img src="IMG_2590.jpeg" width="900"/>
+  <img src="IMG_2590.jpeg" width="500"/>
   <br>
   <i>Live Real-Money Equity Curve · Real account on Backpack Exchange · 5× leverage only<br>Steady -18% drawdown · Still alive & fully automated after 11 months of real trading</i>
 </p>
 
 <p align="center">
-  <img src="IMG_2573.png" width="850"/>
+  <img src="IMG_2573.png" width="50"/>
   <br>
   <i>Production Deployment Proof · systemd service + watchdog + auto-restart<br>99.9% uptime on Ubuntu VPS since Jan 2025</i>
 </p>
