@@ -11,7 +11,7 @@ Official docs are still broken — this is the only public repo that actually ru
 
 
 <p align="center">
-  <img src="architecture-diagram.png" width="300"/>
+  <img src="architecture-diagram.png" width="100"/>
   <br>
   <i>Full Production Architecture · Binance + Coinglass → Multi-timeframe CSV → Strategy Engine → Backpack (ed25519) → Telegram</i>
 </p>
